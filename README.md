@@ -1,1 +1,2 @@
-# A-2-3
+# C20_boilerplate
+boilerplate for teacher activity
